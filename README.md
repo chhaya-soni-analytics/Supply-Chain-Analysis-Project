@@ -1,10 +1,5 @@
 # 🚚 Supply Chain Analysis Project
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange)
-![Project](https://img.shields.io/badge/Project-Supply%20Chain%20Analytics-purple)
-
 
 # 📌 Project Overview
 
